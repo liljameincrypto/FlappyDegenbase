@@ -1,9 +1,9 @@
 const cacheName = "liljame-FlappyDegen-0.1";
 const contentToCache = [
-    "Build/flappydegenbuild.loader.js",
-    "Build/flappydegenbuild.framework.js",
-    "Build/flappydegenbuild.data",
-    "Build/flappydegenbuild.wasm",
+    "Build/degenbuildupdate.loader.js",
+    "Build/degenbuildupdate.framework.js",
+    "Build/degenbuildupdate.data",
+    "Build/degenbuildupdate.wasm",
     "TemplateData/style.css"
 
 ];
